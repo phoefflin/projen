@@ -4927,7 +4927,7 @@ public readonly pnpmVersion: string;
 ```
 
 - *Type:* string
-- *Default:* "7"
+- *Default:* "9"
 
 The version of PNPM to use if using PNPM as a package manager.
 
@@ -6277,7 +6277,7 @@ public readonly jsiiVersion: string;
 ```
 
 - *Type:* string
-- *Default:* "1.x"
+- *Default:* "~5.6.0"
 
 Version of the jsii compiler to use.
 
@@ -8206,7 +8206,7 @@ public readonly pnpmVersion: string;
 ```
 
 - *Type:* string
-- *Default:* "7"
+- *Default:* "9"
 
 The version of PNPM to use if using PNPM as a package manager.
 
@@ -9556,7 +9556,7 @@ public readonly jsiiVersion: string;
 ```
 
 - *Type:* string
-- *Default:* "1.x"
+- *Default:* "~5.6.0"
 
 Version of the jsii compiler to use.
 
